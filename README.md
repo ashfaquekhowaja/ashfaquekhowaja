@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashfaquekhowaja
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in Machine Learning and Deep Learning
+- 🌱 I’m currently learning ML and DL
 - 💞️ I’m looking to collaborate on ML related projects
 - 📫 How to reach me Instagram
 
