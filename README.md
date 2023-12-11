@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashfaquekhowaja
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning ML and DL
-- 💞️ I’m looking to collaborate on ML related projects
+- 👀 I’m interested in Medical Image Processing and other AI applications for Medical Big Data
+- 🌱 I’m currently learning advance technique of Deep Learning
+- 💞️ I’m looking to collaborate on AI applications for Medical Big Data
 - 📫 How to reach me Instagram
 
 <!---
